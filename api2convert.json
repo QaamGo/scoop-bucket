@@ -1,19 +1,19 @@
 {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/QaamGo/api2convert-cli/releases/download/v1.1.0/api2convert_1.1.0_windows_amd64.zip",
+            "url": "https://github.com/QaamGo/api2convert-cli/releases/download/v1.2.0/api2convert_1.2.0_windows_amd64.zip",
             "bin": [
                 "api2convert.exe"
             ],
-            "hash": "657ff986f10087f151cf1c2642e6004cc12baadf97a0b3571faaaab8c538ca76"
+            "hash": "a02aef5af199dbeaf6f78fbf0207f9bb5f5cd8b63b4b5b7388b2396dd3f2935a"
         },
         "arm64": {
-            "url": "https://github.com/QaamGo/api2convert-cli/releases/download/v1.1.0/api2convert_1.1.0_windows_arm64.zip",
+            "url": "https://github.com/QaamGo/api2convert-cli/releases/download/v1.2.0/api2convert_1.2.0_windows_arm64.zip",
             "bin": [
                 "api2convert.exe"
             ],
-            "hash": "a848fc3d76ad70d1020c214d1de55126944355703d044e8f5b9997a2535c2486"
+            "hash": "6375ae32fbaf675dad081cb466c7300fcee26cab5f7f66e1d6bb81b1347af6ac"
         }
     },
     "homepage": "https://www.api2convert.com",
